@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Deshraj-Tiwari-Official
-- 👀 I’m interested in NextJS
-- 🌱 I’m currently learning to create SaaS apps.
-- ⚡ Fun fact: I use vim in VS Code
+- 👋 Hi, I’m @Deshraj-Tiwari-Official (Dash... What my so called friends call me)
+- ⚡ Fun fact: I use Arch BTW. AND code in the most supreme editor on this planet... VSco- I mean Neovim.
+- 😅 I learn whatever the f i want and am not aiming for anything in coding rn. I do random things. Just ignore me...
+
 
 <!---
 Deshraj-Tiwari-Official/Deshraj-Tiwari-Official is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
